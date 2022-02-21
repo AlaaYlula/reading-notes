@@ -14,13 +14,13 @@ we can put the path as Absolute(the Full path to the file) or relative(only the 
 ~ (tilde) : home directory.
 . (dot) : reference to your current directory. 
 .. (dotdot): reference to the parent directory(you can go back )
-![cd](./Terminal_Images/terminal cd ls.png)
+![cd](./Terminal_Images/cd.png)
 * file [path] : used to determine the type of a file.
 Note : For spaces in names we put whole path in quotes ( " ) or a backslash ( \ ) in front of spaces.
-![file](./Terminal_Images/terminal file.png)
+![file](./Terminal_Images/file.png)
 * man <command to look up> : Manual pages to explain the commands and the options it takes, and press 'q' for quit. And if you want to sreach within the manual press '/<term>' and Enter and use 'n' button for next.
   man -k <search term> : you can search for keyword if you are not sure what is the command you want.
-![man](./Terminal_Images/terminal man.png)
+![man](./Terminal_Images/man.png)
 * mkdir [options] <DirectoryName> : Creating a directory.
   and it takes -p option : to make parent directory as needed, and if you want to see what happened add -v option
  * rmdir [options] <Directory> : Remove Empty dirctory.
@@ -29,7 +29,7 @@ Note : For spaces in names we put whole path in quotes ( " ) or a backslash ( \ 
  * cp [options] <source> <destination> : copy file or Directory.
   -r option : is to copy the directory and any files or directories within that directory.
  * mv [options] <source> <destination> : Move a file or directory.And we can use this command as Rename if we make the sourse and destinationsame directory but in different name.
- ![mkdir](./Terminal_Images/terminal mkdir.png)
+ ![mkdir](./Terminal_Images/mkdir.png)
  ### Process Management
   * ps : list of the processes with their id's 
   * kill <process id> : cancel the process.
