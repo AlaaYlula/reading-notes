@@ -1,1 +1,1 @@
-# Practuce Terminal
+# Practice Terminal
