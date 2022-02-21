@@ -1,6 +1,8 @@
 # Practice Terminal
 
-### It let us use many commands to do multiple things
+## Terminal let us use many commands to do multiple things
+
+### Commands Line
 * ls [options] [location] command : it is a List command to List the files and directories inside the directory 
 It takes a -l as a argument(option) to do long listing view the permissions and we can change this permissions by (chmod <permissions> <path>)
 option -a so that it does show hidden files and directories,and also there is a many other arguments for deferent perpose.
