@@ -9,9 +9,8 @@ My name is Ala' Alwazani
 
 | Lab#     |      Title    |  link |
 |----------|:-------------:|------:|
-| Lab #1   |  Java         | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| Lab #1   |  Java         | link  |
+
     
 
 [Link](url) and ![Image](src)
