@@ -9,7 +9,7 @@ My name is Ala' Alwazani
 
 ### 401 Table of Contents 
 
-| **Lab#     |      **Title        |                                **link                                     |
+| **Lab#**   |      **Title**      |                                **link**                                   |
 |------------|:-------------------:|--------------------------------------------------------------------------:|
 | Lab prep   |  Practice Terminal  | [Link](https://github.com/AlaaYlula/reading-notes/blob/main/Terminal.md)  |
 
