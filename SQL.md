@@ -15,7 +15,7 @@ Use WHERE for add condition checking specific column values to determine whether
 
 ## SQL Lesson 3: Queries with constraints (Pt. 2)
 Use WHERE with String data.
-**Opearator**
+>**Opearator**
 ![op2](./SQL_Images/table3.PNG)
 
 ![sql3](./SQL_Images/sql3.PNG)
@@ -30,7 +30,7 @@ Use WHERE with String data.
 ![sql5](./SQL_Images/sql5.PNG)
 
 ## SQL Lesson 6: Multi-table queries with JOINs
-**Multi-table queries with JOINs** : Tables that share information about a single entity need to have a primary key must contain UNIQUE values, and cannot contain NULL values.
+.**Multi-table queries with JOINs** : Tables that share information about a single entity need to have a primary key must contain UNIQUE values, and cannot contain NULL values.
 Using the ***JOIN*** clause in a query, we can combine row data across two separate tables using this unique key.
 The **INNER JOIN** is a process that matches rows from the first table and the second table which have the same key (as defined by the **ON** constraint) to create a result row with the combined columns from both tables
 ![sql6](./SQL_Images/sql6.PNG)
@@ -50,10 +50,10 @@ The **INNER JOIN** is a process that matches rows from the first table and the s
 
 ## SQL Lesson 16: Creating tables
 **CREATE TABLE IF NOT EXISTS ..(** column has a name, the type of data allowed in that column, an optional table constraint on values being inserted, and an optional default value)
-**Data Type**
+>**Data Type**
 ![table16](./SQL_Images/table16.PNG)
 
-**Contstraint**
+>**Contstraint**
 ![cont16](./SQL_Images/Contstraint.PNG)
 
 ![sql16](./SQL_Images/sql16.PNG)
