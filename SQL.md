@@ -8,8 +8,8 @@ Columns being the properties and the rows being instances of the entity in the t
 
 ## SQL Lesson 2: Queries with constraints (Pt. 1)
 Use WHERE for add condition checking specific column values to determine whether it should be included in the results or not so not return the all rows.
-**Opearator**
-![op](./SQL_Images/table2.PNG)
+>**Opearator**
+![op](./SQL_Images/Table2.PNG)
 
 ![sql2](./SQL_Images/S.PNG)
 
