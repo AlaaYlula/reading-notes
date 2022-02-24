@@ -37,7 +37,7 @@ The types of loops in Java:
 
 # Packages and Import
 >**What is the package?**   
->>It something like orgnize the code, put the related classes in the same package.  
+>It something like orgnize the code, put the related classes in the same package.  
 >**How we use this pacakge?**    
 >>By package decliration **package** and then **import** it.    
 >**How we can Import the pacakge?**   
