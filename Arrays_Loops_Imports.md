@@ -38,9 +38,9 @@ The types of loops in Java:
 # Packages and Import
 >**What is the package?**   
 >It something like orgnize the code, put the related classes in the same package.  
->**How we use this pacakge?**    
+>>**How we use this pacakge?**    
 >>By package decliration **package** and then **import** it.    
->**How we can Import the pacakge?**   
+>>**How we can Import the pacakge?**   
 >>We can use( * ) to make all classes in the pacakge are available  to use in the programe or import the specific class which we want to use. And we can fully qualified class name without an import.    
 <!-- taken from https://perso.ensta-paris.fr/~diam/java/online/notes-java/language/10basics/import.html-->
 ![import](./Import/import.PNG)
