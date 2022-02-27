@@ -1,13 +1,13 @@
 # Maps, primitives, File I/O  
 
 ## Primitives  
-Java has a two-fold type system consisting of: 
+Java has a two-fold type system consisting of:   
  ![type](./Map_Primitives_File/Type_Java.png)    
 
-* Primitives types (int, boolean,double..)
- ![prim](./Map_Primitives_File/per.PNG)    
+* Primitives types (int, boolean,double..)  
+ ![prim](./Map_Primitives_File/per.PNG)      
 
-* Reference types(Integer, Boolean,Double..).There are three kinds of reference types: class types, array types, and interface types.
+* Reference types(Integer, Boolean,Double..).There are three kinds of reference types: class types, array types, and interface types.  
  ![Ref](./Map_Primitives_File/Ref.PNG)    
 
 **The main difference between the two types** is that primitive types store actual values but reference type stores handle objects in the heap.  
