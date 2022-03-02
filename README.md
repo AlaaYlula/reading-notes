@@ -16,7 +16,7 @@ My name is Ala' Alwazani
 | Read: 02   |   Arrays, Loops, Imports   | [Link](https://github.com/AlaaYlula/reading-notes/blob/main/Arrays_Loops_Imports.md)   |
 | Read: 03   |   Maps,Exceptions , primitives, File I/O     | [Link](https://github.com/AlaaYlula/reading-notes/blob/main/Maps_primitives_File.md)   |
 | Read: 04   |   OOP     | [Link](https://github.com/AlaaYlula/reading-notes/blob/main/OOP.md)   |
-| Read: 05   |   Lonked List     | [Link](https://github.com/AlaaYlula/reading-notes/blob/main/LinkedList.md)   |
+| Read: 05   |   Linked List     | [Link](https://github.com/AlaaYlula/reading-notes/blob/main/LinkedList.md)   |
 
 
 

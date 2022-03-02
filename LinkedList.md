@@ -11,7 +11,7 @@
 
 >>## Parts of a linked list  
 >A linked list is made up of a series of nodes, which are the elements of the list.The First node is a **Head** and the last node always point to the Null.  
-The Current variable will tell us where  we are exactly in the linked list.  
+The **Current** variable will tell us where  we are exactly in the linked list.  
 So we can do while loop until the next pointer become null that means that the end of the Linked List.  
 
 >>## The Type of the Linked List  
