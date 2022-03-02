@@ -17,6 +17,7 @@ My name is Ala' Alwazani
 | Read: 03   |   Maps,Exceptions , primitives, File I/O     | [Link](https://github.com/AlaaYlula/reading-notes/blob/main/Maps_primitives_File.md)   |
 | Read: 04   |   OOP     | [Link](https://github.com/AlaaYlula/reading-notes/blob/main/OOP.md)   |
 | Read: 05   |   Linked List     | [Link](https://github.com/AlaaYlula/reading-notes/blob/main/LinkedList.md)   |
+| Read: 06   |   Inheritance and Interfaces     | [Link](https://github.com/AlaaYlula/reading-notes/blob/main/Inheritance_and_Interfaces.md)   |
 
 
 
