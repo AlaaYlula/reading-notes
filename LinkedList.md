@@ -1,13 +1,13 @@
 # Linked List  
 >> ## What is a Data Structure in Java?  
 > A data collection with well-defined operations and behavior or properties. A data structure is a unique way of storing or organizing the data in computer memory so that we can use it effectively.
+![linkedList](./Linked_List/data-structure-classification-in-java.jpg)  
 
 >> ## What the Type of Data Structure
-> * Liner Data Structure: elements are sequential, each element connect with the next and previous one except the frist and last elemet they are connect to either next / previous.   
+> * Liner Data Structure: elements are sequential, each element connect with the next and previous one except the first and last element they are connect to either next / previous.   
 > * Non Liner Data Structure : elements are non-sequentially.  
 ![linernon](./Linked_List/Liner_non.jpeg)  
 
-![linkedList](./Linked_List/data-structure-classification-in-java.jpg)  
 
 >>## Parts of a linked list  
 >A linked list is made up of a series of nodes, which are the elements of the list.The First node is a **Head** and the last node always point to the Null.  
