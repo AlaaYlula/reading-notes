@@ -18,7 +18,7 @@ My name is Ala' Alwazani
 | Read: 04   |   OOP     | [Link](https://github.com/AlaaYlula/reading-notes/blob/main/OOP.md)   |
 | Read: 05   |   Linked List     | [Link](https://github.com/AlaaYlula/reading-notes/blob/main/LinkedList.md)   |
 | Read: 06   |   Inheritance and Interfaces     | [Link](https://github.com/AlaaYlula/reading-notes/blob/main/Inheritance_and_Interfaces.md)   |
-
+| Read: 08   |   OO Design     | [Link](https://github.com/AlaaYlula/reading-notes/blob/main/OO_Design.md)   |
 
 
     
