@@ -1,11 +1,11 @@
- # Stacks and Queues  
+# Stacks and Queues  
 ![S&Q](./StacksAndQueues/Stack-Queue.png)  
   
- ## What is the Stack ? 
+## What is the Stack ?  
  The stack is a linear data structure that is used to store the collection of objects.  
    
 
- ### What are the Methods for the Stack ?  
+### What are the Methods for the Stack ?    
   <!-- https://www.tutorialspoint.com/java/java_stack_class.htm -->  
   
  ![Methods](./StacksAndQueues/methods.PNG)  
