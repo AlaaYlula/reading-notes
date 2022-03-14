@@ -19,6 +19,7 @@ My name is Ala' Alwazani
 | Read: 05   |   Linked List     | [Link](https://alaaylula.github.io/reading-notes/LinkedList)   |
 | Read: 06   |   Inheritance and Interfaces     | [Link](https://alaaylula.github.io/reading-notes/Inheritance_and_Interfaces)   |
 | Read: 08   |   OO Design     | [Link](https://alaaylula.github.io/reading-notes/OO_Design)   |
+| Read: 09   |   WRRC and java     | [Link](https://alaaylula.github.io/reading-notes/WRRC_and_Java)   |
 | Read   |   Stack and Queue     | [Link](https://alaaylula.github.io/reading-notes/Stacks_and_Queues)   |
 
 
