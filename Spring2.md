@@ -9,6 +9,17 @@
 * Create repository implementations automatically, at runtime, from a repository interface.  
 By extending CrudRepository< TheClass,Long > or JpaRepository, ClassRepository inherits several methods for working with This Class persistence, including methods for saving, deleting, and finding the Class entities. And we can define a new query methods.  
 
+### What are Spring Data Repositories? 
+* CrudRepository provides CRUD functions
+* PagingAndSortingRepository provides methods to do pagination and sort records  
+* JpaRepository provides JPA related methods such as flushing the persistence context and delete records in a batch  
+   
+### What the Methods for CrudRepository Interface ?  
+![crud](./Spring/Crud.PNG)  
+  
+### What the Methods for PagingAndSortingRepository Interface ? 
+![paging](./Spring/paging.PNG)  
+   
 ### What the Methods for JpaRepository Interface ?  
 <!-- https://www.baeldung.com/spring-data-repositories -->
 ![JPA](./Spring/Jpa.PNG)  
@@ -20,4 +31,6 @@ By extending CrudRepository< TheClass,Long > or JpaRepository, ClassRepository i
 resources : 
 * [Spring guide: Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)  
 * [Baeldung: Comparing repositories](https://www.baeldung.com/spring-data-repositories)  
-* [JpaRepository Interface](https://docs.spring.io/spring-data/data-jpa/docs/current/api/org/springframework/data/jpa/repository/JpaRepository.html)
+* [JpaRepository Interface](https://docs.spring.io/spring-data/data-jpa/docs/current/api/org/springframework/data/jpa/repository/JpaRepository.html)  
+* [PagingAndSortingRepository Interface](https://docs.spring.io/spring-data/data-commons/docs/current/api/org/springframework/data/repository/PagingAndSortingRepository.html)  
+* [CrudRepository Interface](https://docs.spring.io/spring-data/data-commons/docs/current/api/org/springframework/data/repository/CrudRepository.html)  
