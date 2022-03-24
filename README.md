@@ -23,7 +23,8 @@ My name is Ala' Alwazani
 | Read   |   Stack and Queue     | [Link](https://alaaylula.github.io/reading-notes/Stacks_and_Queues)   |
 | Read: 11   |   Spring     | [Link](https://alaaylula.github.io/reading-notes/Spring)   |
 | Read: 12   |   Spring RESTful Routing & Static Files     | [Link](https://alaaylula.github.io/reading-notes/Spring2)   |
-| Read: 13   |   Related Resources and Integration Testing | [Link](https://alaaylula.github.io/reading-notes/Related_Resources_Testing)   |
+| Read: 13   |  Related Resources and Integration Testing | [Link](https://alaaylula.github.io/reading-notes/Related_Resources_Testing)   |
+| Read   |   Tree | [Link](https://alaaylula.github.io/reading-notes/Tree)   |
 
 
     
