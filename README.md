@@ -25,6 +25,7 @@ My name is Ala' Alwazani
 | Read: 12   |   Spring RESTful Routing & Static Files     | [Link](https://alaaylula.github.io/reading-notes/Spring2)   |
 | Read: 13   |  Related Resources and Integration Testing | [Link](https://alaaylula.github.io/reading-notes/Related_Resources_Testing)   |
 | Read   |   Tree | [Link](https://alaaylula.github.io/reading-notes/Tree)   |
+| Read: 16  |   Authentication | [Link](https://alaaylula.github.io/reading-notes/Authentication)   |
 
 
     
