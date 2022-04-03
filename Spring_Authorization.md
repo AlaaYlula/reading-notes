@@ -18,10 +18,10 @@ The Application come up with a home page on http://localhost:8080 (and all requi
 ### Single Sign On With GitHub
 Application uses GitHub for authentication.  
 How create the Application ?  
-> Creating a New Project : using [spring initilizr](https://start.spring.io/)   
-> Add a Home Page : create index.html, and to load the stylesheets you need to add those dependencies by adding jQuery and Twitter Bootstrap  
-> Securing the Application with GitHub and Spring Security : Add the Spring Security OAuth 2.0 Client starter dependency  
-> Configure the app to use GitHub as the authentication provider by : 
+>* Creating a New Project : using [spring initilizr](https://start.spring.io/)   
+>* Add a Home Page : create index.html, and to load the stylesheets you need to add those dependencies by adding jQuery and Twitter Bootstrap  
+>* Securing the Application with GitHub and Spring Security : Add the Spring Security OAuth 2.0 Client starter dependency  
+>* Configure the app to use GitHub as the authentication provider by : 
 >> 1. [Add a New GitHub App](https://github.com/settings/developers)  
 >> 2. Configure application.yml by adding :  
 >> ![yml](./OAuth_Images/yml.PNG)  
