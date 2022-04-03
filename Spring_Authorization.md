@@ -30,7 +30,9 @@ How create the Application ?
 * **Conditional Content on the Home Page** : To render content on the condition that the user is authenticated, you have the option of either server-side or client-side rendering.  
 * **Making the Home Page Public** : extends WebSecurityConfigurerAdapter and override the configure.  
 * **Add a Logout Button** : add the logout button,it POST to /logout and then clears the dynamic content and in the configure add the /ogout route.  
-
+  
+    
+Resources : [Spring Boot and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)    
 
 
 
