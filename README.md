@@ -26,7 +26,7 @@ My name is Ala' Alwazani
 | Read: 13   |  Related Resources and Integration Testing | [Link](https://alaaylula.github.io/reading-notes/Related_Resources_Testing)   |
 | Read   |   Tree | [Link](https://alaaylula.github.io/reading-notes/Tree)   |
 | Read: 16  |   Authentication | [Link](https://alaaylula.github.io/reading-notes/Authentication)   |
-| Read: 17  |   Authentication | [Link](https://alaaylula.github.io/reading-notes/Spring_Authorization)   |
+| Read: 17  |   Spring Boot and OAuth2 | [Link](https://alaaylula.github.io/reading-notes/Spring_Authorization)   |
 
 
     
