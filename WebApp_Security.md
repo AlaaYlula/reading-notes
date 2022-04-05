@@ -4,17 +4,17 @@
 we can have many injections to our code by HTML and sql.  
 
 * We must user Cleaning Content  
-Not all HTML tags or attributes are dangerous, so it might make sense for you to allow some HTML, as long as you don’t allow the dangerous stuff. For example you might want to allow <p> , <th:text> and <ul> tags, but not <script>, <th:utext> or <iframe> tags.  
-* Safe sql query  
-Unsafe Query  
+Not all HTML tags or attributes are dangerous,so it might make sense for you to allow some HTML, as long as you don’t allow the dangerous stuff. For example you might want to allow <p tag> , <th:text tag> and <ul tag> tags, but not <script tag>, <th:utext tag> or <iframe tag> tags.  
+* SQL query  
+**Unsafe Query**    
 ![unsafe](./WebSec_Image/unsafe.PNG)  
-Safe Query  
+**Safe Query**    
 ![safe](./WebSec_Image/safe.PNG)  
   
 ## Many-To-Many  
-what is the realationship  
+**What is the realationship**    
 ![many](./WebSec_Image/many.PNG)  
-How do it in the Model classes  
+**How do it in the Model classes**    
 ![model](./WebSec_Image/model.PNG)  
 
   
