@@ -27,6 +27,7 @@ My name is Ala' Alwazani
 | Read   |   Tree | [Link](https://alaaylula.github.io/reading-notes/Tree)   |
 | Read: 16  |   Authentication | [Link](https://alaaylula.github.io/reading-notes/Authentication)   |
 | Read: 17  |   Spring Boot and OAuth2 | [Link](https://alaaylula.github.io/reading-notes/Spring_Authorization)   |
+| Read: 18  |   Web App Security | [Link](https://alaaylula.github.io/reading-notes/WebApp_Security)   |
 
 
     
