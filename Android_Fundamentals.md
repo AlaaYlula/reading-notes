@@ -14,7 +14,8 @@ Android apps can be written using Kotlin, Java, and C++ languages.
 >> Is a component that enables the system to deliver events to the app outside of a regular user flow, allowing the app to respond to system-wide broadcast announcements.  
 >4. Content providers  
 >> Manages a shared set of app data that you can store in the file system, in a SQLite database, on the web, or on any other persistent storage location that your app can access.  
-![activity](./Android/activity.PNG)  
+
+>![activity](./Android/activity.PNG)  
   
 ## Activating components 
 * An intent is created with an Intent object, which defines a message to activate either a specific component (explicit intent) or a specific type of component (implicit intent).  
