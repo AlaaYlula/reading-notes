@@ -29,3 +29,4 @@ Android apps can be written using Kotlin, Java, and C++ languages.
 * Declares hardware and software features used or required by the app, such as a camera, bluetooth services, or a multitouch screen.   
 * Declares API libraries the app needs to be linked against (other than the Android framework APIs), such as the Google Maps library.  
   
+* Resources: ![Android](https://developer.android.com/guide/components/fundamentals)    
