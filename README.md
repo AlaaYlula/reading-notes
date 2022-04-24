@@ -29,6 +29,7 @@ My name is Ala' Alwazani
 | Read: 17  |   Spring Boot and OAuth2 | [Link](https://alaaylula.github.io/reading-notes/Spring_Authorization)   |
 | Read: 18  |   Web App Security | [Link](https://alaaylula.github.io/reading-notes/WebApp_Security)   |
 | Read: 19  |   Spring and sockets | [Link](https://alaaylula.github.io/reading-notes/spring_and_sockets)   |
+| Read: 26  |   Android Fundamentals | [Link](https://alaaylula.github.io/reading-notes/Android_Fundamentals)   |
 
 
     
