@@ -30,6 +30,7 @@ My name is Ala' Alwazani
 | Read: 18  |   Web App Security | [Link](https://alaaylula.github.io/reading-notes/WebApp_Security)   |
 | Read: 19  |   Spring and sockets | [Link](https://alaaylula.github.io/reading-notes/spring_and_sockets)   |
 | Read: 26  |   Android Fundamentals | [Link](https://alaaylula.github.io/reading-notes/Android_Fundamentals)   |
+| Read: 27  |   Android Fundamentals | [Link](https://alaaylula.github.io/reading-notes/Intents)   |
 
 
     
