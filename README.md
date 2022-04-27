@@ -31,6 +31,7 @@ My name is Ala' Alwazani
 | Read: 19  |   Spring and sockets | [Link](https://alaaylula.github.io/reading-notes/spring_and_sockets)   |
 | Read: 26  |   Android Fundamentals | [Link](https://alaaylula.github.io/reading-notes/Android_Fundamentals)   |
 | Read: 27  |    Intents, Activities, and SharedPreferences | [Link](https://alaaylula.github.io/reading-notes/Intents)   |
+| Read: 28  |    RecyclerView | [Link](https://alaaylula.github.io/reading-notes/RecyclerView)   |
 
 
     

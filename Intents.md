@@ -1,7 +1,7 @@
 # Intents, Activities, and SharedPreferences
 
 ## Tasks and the back stack 
-the task is collection of activities the user interact with when using the app. When one activity opened then this activity goes into back stack. And when the user go back from this activity it will poped off the stack.  
+The task is a collection of activities the user interacts with when using the app. When one activity is opened then this activity goes into the back stack. And when the user goes back from this activity it will popped off the stack.
 
 ### Lifecycle of a task and its back stack
 ![stack](./Intents/stack.PNG)  
