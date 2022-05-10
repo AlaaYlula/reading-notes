@@ -33,6 +33,7 @@ My name is Ala' Alwazani
 | Read: 27  |    Intents, Activities, and SharedPreferences | [Link](https://alaaylula.github.io/reading-notes/Intents)   |
 | Read: 28  |    RecyclerView | [Link](https://alaaylula.github.io/reading-notes/RecyclerView)   |
 | Read: 29  |    Room | [Link](https://alaaylula.github.io/reading-notes/Room)   |
+| Read  |    Hash Tables | [Link](https://alaaylula.github.io/reading-notes/HashTable)   |
 
 
     
