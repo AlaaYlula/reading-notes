@@ -13,3 +13,6 @@
 
 # Pros and Cons of Amplify
 ![Pro_Con](./AWS/Pro_Con.PNG)  
+  
+Resources:  
+[AWS Amplify](https://beabetterdev.com/2021/09/22/what-is-aws-amplify/)  
