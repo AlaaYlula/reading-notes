@@ -35,6 +35,7 @@ My name is Ala' Alwazani
 | Read: 29  |    Room | [Link](https://alaaylula.github.io/reading-notes/Room)   |
 | Read  |    Hash Tables | [Link](https://alaaylula.github.io/reading-notes/HashTable)   |
 | Read 31  |    Espresso | [Link](https://alaaylula.github.io/reading-notes/Espresso)   |
+| Read 32  |    Espresso | [Link](https://alaaylula.github.io/reading-notes/Serverless_Amplify)   |
 
 
 
