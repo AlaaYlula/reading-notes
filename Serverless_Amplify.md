@@ -20,7 +20,7 @@
 ![img](./serverless/serverless_traditional.PNG)  
 
 ### The Serverless App
-A Serverless solution consists of a web server, Lambda functions (FaaS), security token service (STS), user authentication and database.  
+A Serverless solution consists of a web server, Lambda functions (FaaS), security token service (STS), user authentication, and a database.  
 ![App](./serverless/Appserverless.PNG)  
   
 ## AWS Amplify
