@@ -37,6 +37,7 @@ My name is Ala' Alwazani
 | Read 31  |    Espresso | [Link](https://alaaylula.github.io/reading-notes/Espresso)   |
 | Read 32  |    Serverless and Amplify | [Link](https://alaaylula.github.io/reading-notes/Serverless_Amplify)   |
 | Read 33  |    GraphQL  | [Link](https://alaaylula.github.io/reading-notes/GraphQL)   |
+| Read 34  |    Monetization  | [Link](https://alaaylula.github.io/reading-notes/Monetization)   |
 
 
 
