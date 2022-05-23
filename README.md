@@ -38,6 +38,7 @@ My name is Ala' Alwazani
 | Read 32  |    Serverless and Amplify | [Link](https://alaaylula.github.io/reading-notes/Serverless_Amplify)   |
 | Read 33  |    GraphQL  | [Link](https://alaaylula.github.io/reading-notes/GraphQL)   |
 | Read 34  |    Monetization  | [Link](https://alaaylula.github.io/reading-notes/Monetization)   |
+| Read  |    Graphs  | [Link](https://alaaylula.github.io/reading-notes/Graphs)   |
 
 
 
