@@ -39,7 +39,7 @@ My name is Ala' Alwazani
 | Read 33  |    GraphQL  | [Link](https://alaaylula.github.io/reading-notes/GraphQL)   |
 | Read 34  |    Monetization  | [Link](https://alaaylula.github.io/reading-notes/Monetization)   |
 | Read  |    Graphs  | [Link](https://alaaylula.github.io/reading-notes/Graphs)   |
-| Read 36  |    Graphs  | [Link](https://alaaylula.github.io/reading-notes/Cognito)   |
+| Read 36  |    Amplify and Cognito  | [Link](https://alaaylula.github.io/reading-notes/Cognito)   |
 
 
 
