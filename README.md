@@ -40,6 +40,7 @@ My name is Ala' Alwazani
 | Read 34  |    Monetization  | [Link](https://alaaylula.github.io/reading-notes/Monetization)   |
 | Read  |    Graphs  | [Link](https://alaaylula.github.io/reading-notes/Graphs)   |
 | Read 36  |    Amplify and Cognito  | [Link](https://alaaylula.github.io/reading-notes/Cognito)   |
+| Read 37  |    Amplify and S3  | [Link](https://alaaylula.github.io/reading-notes/S3)   |
 
 
 
