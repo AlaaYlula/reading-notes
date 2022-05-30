@@ -2,7 +2,7 @@
 
 ## Allowing Other Apps to Start Your Activity 
 In some Applications when we need to share, the app appears as an option in the chooser dialog.  
-We need to add an **<intent-filter>** element in the manifest file for the corresponding <activity> element.  
+We need to add an **intent-filter** element in the manifest file for the corresponding <activity> element.  
 And for the **intent-filter** can specifies only one action and one data type.  
   
 ## Intent types
