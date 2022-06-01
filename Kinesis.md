@@ -10,3 +10,6 @@ Request the location permission.
 ![instance](./Kinesis/instance.PNG)  
 4. **Get the last known location**  
 ![location](./Kinesis/getLocation.PNG)  
+
+Resources:  
+[Location](https://developer.android.com/training/location/retrieve-current)
