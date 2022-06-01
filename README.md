@@ -42,6 +42,7 @@ My name is Ala' Alwazani
 | Read 36  |    Amplify and Cognito  | [Link](https://alaaylula.github.io/reading-notes/Cognito)   |
 | Read 37  |    Amplify and S3  | [Link](https://alaaylula.github.io/reading-notes/S3)   |
 | Read 38  |    Notifications  | [Link](https://alaaylula.github.io/reading-notes/Notifications)   |
+| Read 39  |    Kinesis  | [Link](https://alaaylula.github.io/reading-notes/Kinesis)   |
 
 
 
