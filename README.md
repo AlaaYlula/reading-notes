@@ -41,11 +41,11 @@ My name is Ala' Alwazani
 | Read  |    Graphs  | [Link](https://alaaylula.github.io/reading-notes/Graphs)   |
 | Read 36  |    Amplify and Cognito  | [Link](https://alaaylula.github.io/reading-notes/Cognito)   |
 | Read 37  |    Amplify and S3  | [Link](https://alaaylula.github.io/reading-notes/S3)   |
-| Read 38  |    Notifications  | [Link](https://alaaylula.github.io/reading-notes/Notifications)   |
+| Read 38  |    Intent Filters  | [Link](https://alaaylula.github.io/reading-notes/Notifications)   |
 | Read 39  |    Kinesis  | [Link](https://alaaylula.github.io/reading-notes/Kinesis)   |
 | Read 41  |    Amazon Pinpoint & Polly   | [Link](https://alaaylula.github.io/reading-notes/Amazon_Pinpoint_Polly )   |
 | Read 42  |    Ethics   | [Link](https://alaaylula.github.io/reading-notes/Ethics )   |
-| Read 42  |    location   | [Link](https://alaaylula.github.io/reading-notes/location )   |
+| Read 42  |    Google AdMob   | [Link](https://alaaylula.github.io/reading-notes/AdMob )   |
 
 
 

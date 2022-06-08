@@ -1,4 +1,4 @@
-# Notifications
+# Intent Filters
 
 ## Allowing Other Apps to Start Your Activity 
 In some Applications when we need to share, the app appears as an option in the chooser dialog.  
