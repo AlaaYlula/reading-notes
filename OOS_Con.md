@@ -21,8 +21,8 @@ You can also use one of the following resources to help you discover and contrib
 5. Improve Software on a User and Business Level.  
   
 Resources:  
-[What Motivates a Developer to Contribute to Open-Source Software?](https://clearcode.cc/blog/why-developers-contribute-open-source-software/) 
-[First Timers Only](https://www.firsttimersonly.com/) 
-[GitHub’s Guide to Open Source](https://github.com/open-source)
-[how-to-contribute](https://opensource.guide/how-to-contribute/)
+[What Motivates a Developer to Contribute to Open-Source Software?](https://clearcode.cc/blog/why-developers-contribute-open-source-software/)   
+[First Timers Only](https://www.firsttimersonly.com/)  
+[GitHub’s Guide to Open Source](https://github.com/open-source)  
+[how-to-contribute](https://opensource.guide/how-to-contribute/)  
 
